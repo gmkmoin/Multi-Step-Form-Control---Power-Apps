@@ -1,3 +1,12 @@
+<img width="1919" height="916" alt="HomeScreen" src="https://github.com/user-attachments/assets/afdc9362-1161-4158-8ee4-3205cf1da22e" />
+<img width="1919" height="916" alt="NewReqScreen" src="https://github.com/user-attachments/assets/cb3d1ec0-56f2-40ea-80cf-a3c39a2650b4" />
+<img width="1919" height="919" alt="NewReqScreen2" src="https://github.com/user-attachments/assets/17701e02-63dc-4018-a007-97c3874536d8" />
+<img width="1919" height="919" alt="NewReqScreen3" src="https://github.com/user-attachments/assets/e835e787-504a-4a64-b98a-fd1aee0a750b" />
+<img width="1919" height="919" alt="NewReqScreen4" src="https://github.com/user-attachments/assets/1a732306-43b3-4c85-9c2b-8e0ea9d7a211" />
+<img width="1919" height="915" alt="ViewReqScreen" src="https://github.com/user-attachments/assets/727f0bb5-9724-4a58-8b36-8ee1c5f4eb4e" />
+<img width="1919" height="919" alt="EditReqScreen" src="https://github.com/user-attachments/assets/74f01783-b4a9-464e-923f-c69e44349af3" />
+<img width="1919" height="915" alt="SharepointList" src="https://github.com/user-attachments/assets/1e64d6de-fa1e-4431-8e97-3bceac001239" />
+
 # 📝 Travel Request Management App
 
 A modern **Multi-Step Travel Request Management Application** built using **Microsoft Power Apps** and **SharePoint**, designed to simplify the process of creating, reviewing, and managing employee travel requests.
